@@ -1,82 +1,82 @@
-A responsive calendar web application built with HTML, CSS, and JavaScript. Displays monthly calendar views with date navigation functionality.
+# Calendar
++ A responsive calendar web application built with HTML, CSS, and JavaScript. Displays monthly calendar views with date navigation functionality.
 
-Live Demo
-🔗 https://calendar695.netlify.app/
+## [Live Demo](https://calendar695.netlify.app/)
 
-Features
-View current month with highlighted today's date
+### Features
++ View current month with highlighted today's date
 
-Navigate between months (previous/next)
++ Navigate between months (previous/next)
 
-Responsive design for all screen sizes
++ Responsive design for all screen sizes
 
-Clean, minimalist UI
++ Clean, minimalist UI
 
-Date display formatting
++ Date display formatting
 
-Workflow & Development Steps
+### Workflow & Development Steps
 
-1. Planning Phase
-   Designed calendar grid layout
+#### 1. Planning Phase
+   + Designed calendar grid layout
 
-Determined required functionality (navigation, current date highlighting)
++ Determined required functionality (navigation, current date highlighting)
 
-Planned date calculation logic
++ Planned date calculation logic
 
-2. Implementation
-   Created HTML structure for calendar grid
+#### 2. Implementation
+  + Created HTML structure for calendar grid
 
-Added CSS styling for responsive layout
++ Added CSS styling for responsive layout
 
-Implemented JavaScript for:
++ Implemented JavaScript for:
 
-Current date detection
++ Current date detection
 
-Month/year navigation
++ Month/year navigation
 
-Date cell generation
++ Date cell generation
 
-Dynamic header updates
++ Dynamic header updates
 
-3. Testing
-   Verified correct date display across month transitions
+### 3. Testing
+  + Verified correct date display across month transitions
 
-Tested edge cases (month/year transitions)
++ Tested edge cases (month/year transitions)
 
-Checked responsive behavior on different devices
++ Checked responsive behavior on different devices
 
-4. Deployment
-   Hosted on Netlify
+### 4. Deployment
+   + Hosted on Netlify
 
-Configured continuous deployment from GitHub
++ Configured continuous deployment from GitHub
 
-Verified live deployment functionality
++ Verified live deployment functionality
 
-How to Use
-Open the calendar in your browser
+## How to Use
+ + Open the calendar in your browser
 
-View current month with today's date highlighted
++ View current month with today's date highlighted
 
-Use "Previous" and "Next" buttons to navigate months
++ Use "Previous" and "Next" buttons to navigate months
 
-The header updates automatically to show current month/year
++ The header updates automatically to show current month/year
 
-Technologies Used
-HTML5
+## Technologies Used
++ HTML5
 
-CSS3 (Flexbox/Grid)
++ CSS3 (Flexbox/Grid)
 
-Vanilla JavaScript
++ Vanilla JavaScript
 
-Netlify (Hosting)
++ Netlify (Hosting)
 
-Future Enhancements
-Add event creation/management
+## Future Enhancements
++ Add event creation/management
 
-Implement different view modes (Week, Year)
++ Implement different view modes (Week, Year)
 
-Add holiday highlighting
++ Add holiday highlighting
 
-Include dark/light theme toggle
++ Include dark/light theme toggle
 
-Add local storage for persistent events
++ Add local storage for persistent events
