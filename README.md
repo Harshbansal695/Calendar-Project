@@ -1,5 +1,3 @@
-Calendar App
-Overview
 A responsive calendar web application built with HTML, CSS, and JavaScript. Displays monthly calendar views with date navigation functionality.
 
 Live Demo
