@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { saveEvents, getEvents } from "../utils/storage";
 import format from "date-fns/format";
 
